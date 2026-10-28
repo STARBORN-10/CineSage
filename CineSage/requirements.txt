@@ -1,0 +1,13 @@
+
+openai
+groq
+google-genai
+mistralai
+python-dotenv
+requests
+httpx
+pydantic
+pandas
+numpy
+ipykernel
+jupyter
